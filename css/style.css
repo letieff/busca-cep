@@ -1,0 +1,12 @@
+.b-block {
+  width: 100%;
+  display: block;
+}
+
+.m-top {
+  margin-top: 0.75rem;
+}
+
+.m-2-top {
+  margin-top: 1.5rem;
+}
